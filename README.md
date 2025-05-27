@@ -71,15 +71,15 @@ const iMaks = {
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D4FF&title_color=00D4FF&icon_color=00D4FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Twilight-Techy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D4FF&title_color=00D4FF&icon_color=00D4FF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&border_color=00D4FF&title_color=00D4FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twilight-Techy&layout=compact&langs_count=8&theme=tokyonight&border_color=00D4FF&title_color=00D4FF"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&border=00D4FF&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Twilight-Techy&theme=tokyonight&border=00D4FF&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF)](https://git.io/streak-stats)
 
 </div>
 
@@ -141,7 +141,7 @@ const iMaks = {
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00D4FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Twilight-Techy&color=00D4FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
 **"The future belongs to those who build it"** 🚀
 
