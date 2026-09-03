@@ -66,7 +66,7 @@ CesiumJS.
 | | |
 |---|---|
 | **Languages** | Python, TypeScript, JavaScript, SQL, C++ (embedded), Java |
-| **AI systems** | vLLM, Modal, tool and function calling, agent orchestration, Model Context Protocol, INT8 quantization, TFLite Micro, PyTorch, TensorFlow, Keras, OpenCV, YOLOv8 |
+| **AI systems** | vLLM, Modal, tool and function calling, agent orchestration, Model Context Protocol, INT8 quantization, TFLite Micro, PyTorch, TensorFlow, Keras, scikit-learn, OpenCV, YOLOv8 |
 | **Backend** | FastAPI, NestJS, Express, Django, SQLAlchemy, asyncpg, Prisma, Pydantic, REST design, JWT and RBAC |
 | **Data & infra** | PostgreSQL, MySQL, MS SQL Server, Redis, Docker, Azure DevOps CI/CD, AWS (SageMaker, Lambda, Step Functions, S3), MQTT |
 
