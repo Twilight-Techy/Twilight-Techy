@@ -1,6 +1,6 @@
 # Ibrahim A. Makanjuola
 
-**Software Engineer — AI systems and agentic AI**
+**Software Engineer — AI systems and agentic AI**<br>
 Lagos, Nigeria · open to relocation and remote
 
 I build the machinery around models rather than just calling them: serving open-weight LLMs on
