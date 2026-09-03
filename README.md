@@ -1,156 +1,86 @@
-# 💫 Yo, I'm Ibrahim Makanjuola! 
-## 🌊 *aka Twilight Techie | iMaks* 
+# Ibrahim A. Makanjuola
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Engineer+%F0%9F%A4%96;Building+Intelligent+Systems+%E2%9A%A1;Welcome+to+my+Digital+Universe+%F0%9F%8C%8C)](https://git.io/typing-svg)
+**Software Engineer — AI systems and agentic AI**
+Lagos, Nigeria · open to relocation and remote
 
-</div>
+I build the machinery around models rather than just calling them: serving open-weight LLMs on
+GPUs, giving agents tools they can use safely, and squeezing models small enough to run on a
+microcontroller. Backend engineering is the foundation that makes any of it shippable.
 
----
-
-<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
-
-### 🔥 About This Digital Architect
-
-```javascript
-const iMaks = {
-    name: "Ibrahim Makanjuola",
-    alias: ["Twilight Techie", "iMaks"],
-    location: "Somewhere in the Cloud ☁️",
-    role: "Software Engineer",
-    specialties: ["Full Stack", "AI/ML", "Intelligent Systems"],
-    currentMood: "Building the future, one line at a time",
-    motto: "Code it, Ship it, Scale it! 🚀"
-};
-```
+B.Eng. Electronics and Computer Engineering, Lagos State University (2026).
 
 ---
 
-## ⚡ Tech Arsenal
+## Now
 
-<div align="center">
+**Backend engineer at [De Cloud23 Technologies](https://decloud23tech.com/)**, on
+[Games4Africa](https://games4africa.com) — the central hub for an African gaming platform.
+Core services in Express and MySQL: relational schema design, player accounts and auth,
+studio integrations into the hub, and wallet and rewards flows.
 
-### 🌐 **Frontend Weapons**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### ⚙️ **Backend Power**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-### 🤖 **AI/ML Stack**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### 🗄️ **Database Mastery**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### ☁️ **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</div>
+**Building Skyla**, an agentic life-automation platform where users compose sandboxed agents
+that run long tasks and keep persistent context. *In development — private repos, nothing to
+show publicly yet.*
 
 ---
 
-## 📊 GitHub Analytics
+## Selected work
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Twilight-Techy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D4FF&title_color=00D4FF&icon_color=00D4FF"/>
+**[artemis](https://github.com/Twilight-Techy/artemis)** — an AI smart-home agent that runs a
+full agentic loop over voice and text: the model picks a tool, the tool executes, the result
+is fed back, and the agent speaks the confirmation. Nothing physical happens until the model
+has produced an explicit reasoning trace and the user has approved it. FastAPI and Gemini on
+the backend, ESP32 firmware over MQTT at the edge, plus a simulator mirroring the firmware's
+wire contract so the whole stack is developable without hardware.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twilight-Techy&layout=compact&langs_count=8&theme=tokyonight&border_color=00D4FF&title_color=00D4FF"/>
+**[kliniq-api](https://github.com/Twilight-Techy/kliniq-api)** — clinical triage across
+English, Hausa, Igbo and Yoruba, built on N-ATLaS, an open-weight Nigerian multilingual model.
+Served it myself on Modal A10G GPUs with vLLM — FP16, 8K context, cached weight volumes,
+request concurrency for warm starts. The model has no native function calling, so tool use is
+a call protocol I defined, parsed out of raw generations and executed transactionally.
+*Awarri Developer Challenge 2025.*
 
-</div>
+**[ev-range-estimation-system](https://github.com/Twilight-Techy/ev-range-estimation-system)**
+— range prediction for electric tricycles from a 60-second window of telemetry. An LSTM tuned
+with KerasTuner Bayesian search, then quantized to INT8 so it fits a 120 KB tensor arena and
+runs on a $5 ESP32 via TFLite Micro. The memory budget is the whole engineering problem.
 
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Twilight-Techy&theme=tokyonight&border=00D4FF&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF)](https://git.io/streak-stats)
+**[attention-malaria-tb-detection](https://github.com/Twilight-Techy/attention-malaria-tb-detection)**
+— implementation of an attention-improved diagnosis framework: CBAM attention modules dropped
+into five architectures (custom CNN, ResNet50, VGG16, MobileNetV2, DenseNet121), with Grad-CAM
+heatmaps for clinical interpretability. Built for a research project by Muhammed Toheeb
+Abdulraheem.
 
-</div>
+**[scones-unlimited-ml-pipeline](https://github.com/Twilight-Techy/scones-unlimited-ml-pipeline)**
+— event-driven image classification on AWS: Step Functions orchestrating Lambdas around a
+SageMaker endpoint, with confidence thresholding and parallel fan-out.
 
----
-
-## 🎯 Current Missions
-
-<div align="center">
-
-| 🚀 **Project Type** | 🎯 **Status** | ⚡ **Vibe** |
-|:---:|:---:|:---:|
-| AI-Powered SaaS Platform | `In Progress` | 🔥 Fire |
-| ML Model Optimization | `Research Phase` | 🧠 Big Brain |
-| Open Source Contribution | `Active` | 💪 Contributing |
-| Tech Blog Writing | `Weekly` | ✍️ Sharing Knowledge |
-
-</div>
-
----
-
-## 🌟 Latest Blog Posts & Insights
-
-<!-- BLOG-POST-LIST:START -->
-- 🤖 [Building Scalable AI Systems: Lessons from the Trenches](https://your-blog.com)
-- ⚡ [The Future of Full Stack: Why AI Integration is Non-Negotiable](https://your-blog.com)
-- 🚀 [From Code to Cloud: My DevOps Journey](https://your-blog.com)
-- 💡 [Machine Learning in Production: Real Talk](https://your-blog.com)
-<!-- BLOG-POST-LIST:END -->
+**[crisp](https://github.com/Twilight-Techy/crisp)** — a crime reporting and incident
+platform. Next.js, Prisma and PostgreSQL, with geospatial visualization through MapLibre and
+CesiumJS.
 
 ---
 
-## 🤝 Let's Connect & Build Something Epic!
+## Working with
 
-<div align="center">
+| | |
+|---|---|
+| **Languages** | Python, TypeScript, JavaScript, SQL, C++ (embedded), Java |
+| **AI systems** | vLLM, Modal, tool and function calling, agent orchestration, Model Context Protocol, INT8 quantization, TFLite Micro, PyTorch, TensorFlow, Keras, OpenCV, YOLOv8 |
+| **Backend** | FastAPI, NestJS, Express, Django, SQLAlchemy, asyncpg, Prisma, Pydantic, REST design, JWT and RBAC |
+| **Data & infra** | PostgreSQL, MySQL, MS SQL Server, Redis, Docker, Azure DevOps CI/CD, AWS (SageMaker, Lambda, Step Functions, S3), MQTT |
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
-### 💬 Hit me up for:
-- 🚀 **Collaboration** on AI/ML projects
-- 💡 **Consulting** on intelligent systems
-- 🎯 **Mentoring** in full-stack development
-- ☕ **Coffee chats** about tech and the future
-
-</div>
+Certified in Model Context Protocol (Anthropic), OCI Generative AI Professional and OCI
+Multicloud Architect Professional (Oracle), and the AWS Machine Learning Nanodegree (Udacity).
 
 ---
 
-<div align="center">
+## Elsewhere
 
-### 🎵 Currently Vibing To:
-[![Spotify](https://novatorem-kyzbk7wxl-baralho.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+[LinkedIn](https://www.linkedin.com/in/ibrahim-makanjuola) ·
+[X](https://x.com/iMaksxAI) ·
+[mzone7325@gmail.com](mailto:mzone7325@gmail.com)
 
-### ⚡ Fun Fact:
-*I debug with coffee and deploy with confidence. When I'm not coding, I'm probably exploring the latest AI research papers or building something that doesn't exist yet! 🤖✨*
-
----
-
-<img src="https://komarev.com/ghpvc/?username=Twilight-Techy&color=00D4FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-
-**"The future belongs to those who build it"** 🚀
-
-</div>
-
----
-
-<div align="center">
-  
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
+Also a Millennium Fellow, and I've spent the last two years volunteering as lead engineer and
+mentor at the [Retgrow Initiative](https://github.com/Twilight-Techy/retgrow-learn), building
+learning tools for underserved students in Nigeria.
