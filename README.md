@@ -53,13 +53,20 @@ accuracy deltas, alongside Grad-CAM heatmaps and latency and model-size benchmar
 deployment in constrained settings. The research design belongs to a separate project; the
 implementation is mine.
 
-**[scones-unlimited-ml-pipeline](https://github.com/Twilight-Techy/scones-unlimited-ml-pipeline)**
+**[stepfunctions-sagemaker-pipeline](https://github.com/Twilight-Techy/stepfunctions-sagemaker-pipeline)**
 — event-driven image classification on AWS: Step Functions orchestrating Lambdas around a
 SageMaker endpoint, with confidence thresholding and parallel fan-out.
 
 **[crisp](https://github.com/Twilight-Techy/crisp)** — a crime reporting and incident
-platform. Next.js, Prisma and PostgreSQL, with geospatial visualization through MapLibre and
-CesiumJS.
+platform. Next.js, Prisma and PostgreSQL, with incidents rendered on a 3D globe through
+CesiumJS alongside MapLibre and MapTiler.
+[Live](https://crisp-hazel.vercel.app/)
+
+**[ruby-smart-notes](https://github.com/Twilight-Techy/ruby-smart-notes)** — drop in lecture
+notes as text, a PDF, slides, or a photo of your handwriting, and Gemini returns a summary,
+key concepts, a quiz, and a tutor that has already read them. Gemini Vision does the OCR, so
+handwritten pages work. Next.js, Neon Postgres and Drizzle, multi-tenant behind Neon Auth.
+[Live](https://ruby-puce.vercel.app/)
 
 ---
 
