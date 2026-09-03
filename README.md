@@ -46,10 +46,12 @@ with KerasTuner Bayesian search, then quantized to INT8 so it fits a 120 KB tens
 runs on a $5 ESP32 via TFLite Micro. The memory budget is the whole engineering problem.
 
 **[attention-malaria-tb-detection](https://github.com/Twilight-Techy/attention-malaria-tb-detection)**
-— implementation of an attention-improved diagnosis framework: CBAM attention modules dropped
-into five architectures (custom CNN, ResNet50, VGG16, MobileNetV2, DenseNet121), with Grad-CAM
-heatmaps for clinical interpretability. Built for a research project by Muhammed Toheeb
-Abdulraheem.
+— CBAM channel and spatial attention written from scratch and injected into five architectures
+(ResNet50, VGG16, MobileNetV2, DenseNet121 and a custom CNN) behind one shared builder, so the
+backbone stays the only variable. Compared with McNemar significance testing rather than raw
+accuracy deltas, alongside Grad-CAM heatmaps and latency and model-size benchmarks for
+deployment in constrained settings. The research design belongs to a separate project; the
+implementation is mine.
 
 **[scones-unlimited-ml-pipeline](https://github.com/Twilight-Techy/scones-unlimited-ml-pipeline)**
 — event-driven image classification on AWS: Step Functions orchestrating Lambdas around a
