@@ -76,9 +76,9 @@ handwritten pages work. Next.js, Neon Postgres and Drizzle, multi-tenant behind 
 | | |
 |---|---|
 | **Languages** | Python, TypeScript, JavaScript, SQL, C++ (embedded), Java |
-| **AI systems** | vLLM, Modal, tool and function calling, agent orchestration, Model Context Protocol, INT8 quantization, TFLite Micro, PyTorch, TensorFlow, Keras, scikit-learn, OpenCV, YOLOv8 |
+| **AI systems** | vLLM, Modal, Vertex AI, Gemini, tool and function calling, agent orchestration, Model Context Protocol, INT8 quantization, TFLite Micro, PyTorch, TensorFlow, Keras, scikit-learn, OpenCV, YOLOv8 |
 | **Backend** | FastAPI, NestJS, Express, Django, SQLAlchemy, asyncpg, Prisma, Pydantic, REST design, JWT and RBAC |
-| **Data & infra** | PostgreSQL, MySQL, MS SQL Server, Redis, Docker, Azure DevOps CI/CD, AWS (SageMaker, Lambda, Step Functions, S3), MQTT |
+| **Data & infra** | PostgreSQL, MySQL, MS SQL Server, Redis, Docker, Azure DevOps CI/CD, AWS (SageMaker, Lambda, Step Functions, S3), Google Cloud (Cloud Run, Cloud Functions, Cloud SQL, Cloud Logging), MQTT |
 
 Certified in Model Context Protocol (Anthropic), OCI Generative AI Professional and OCI
 Multicloud Architect Professional (Oracle), and the AWS Machine Learning Nanodegree (Udacity).
