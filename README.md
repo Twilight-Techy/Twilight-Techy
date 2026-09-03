@@ -39,6 +39,7 @@ Served it myself on Modal A10G GPUs with vLLM — FP16, 8K context, cached weigh
 request concurrency for warm starts. The model has no native function calling, so tool use is
 a call protocol I defined, parsed out of raw generations and executed transactionally.
 *Awarri Developer Challenge 2025.*
+[Live](https://kliniq-ui.vercel.app/) · [API](https://kliniq-api.onrender.com/)
 
 **[ev-range-estimation-system](https://github.com/Twilight-Techy/ev-range-estimation-system)**
 — range prediction for electric tricycles from a 60-second window of telemetry. An LSTM tuned
