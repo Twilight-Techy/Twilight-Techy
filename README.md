@@ -1,7 +1,7 @@
 # Ibrahim A. Makanjuola
 
 **Software Engineer · AI systems and agentic AI**<br>
-Lagos, Nigeria · open to relocation and remote
+Lagos, Nigeria · open to relocation and remote · [twilighttechy.dev](https://www.twilighttechy.dev)
 
 I build the machinery around models rather than just calling them: serving open-weight LLMs on
 GPUs, giving agents tools they can use safely, and squeezing models small enough to run on a
@@ -84,6 +84,7 @@ Multicloud Architect Professional (Oracle), and the AWS Machine Learning Nanodeg
 
 ## Elsewhere
 
+[twilighttechy.dev](https://www.twilighttechy.dev) ·
 [LinkedIn](https://www.linkedin.com/in/ibrahim-makanjuola) ·
 [X](https://x.com/iMaksxAI) ·
 [mzone7325@gmail.com](mailto:mzone7325@gmail.com)
